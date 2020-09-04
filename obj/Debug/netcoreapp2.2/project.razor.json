@@ -1,0 +1,40 @@
+{
+  "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ORMs/bankAccounts/bankAccounts/bankAccounts.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "bankAccounts",
+  "Documents": [
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ORMs/bankAccounts/bankAccounts/Views/Home/LoginUser.cshtml",
+      "TargetPath": "Views\\Home\\LoginUser.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ORMs/bankAccounts/bankAccounts/Views/Home/RegisterUser.cshtml",
+      "TargetPath": "Views\\Home\\RegisterUser.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ORMs/bankAccounts/bankAccounts/Views/Home/ShowAccount.cshtml",
+      "TargetPath": "Views\\Home\\ShowAccount.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ORMs/bankAccounts/bankAccounts/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
